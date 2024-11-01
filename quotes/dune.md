@@ -8,3 +8,5 @@
 
 - Release Year: 2021
 - Director: Denis Villeneuve
+- Genre: Science Fiction
+- Based on: Novel by Frank Herbert
