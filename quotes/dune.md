@@ -4,3 +4,9 @@
 * "When Is A Gift Not A Gift?"
 * "The spice must flow."
 * "Fear is the mind-killer."
+# Dune
+
+- Release Year: 2021
+- Director: Denis Villeneuve
+- Genre: Science Fiction
+- Based on: Novel by Frank Herbert
